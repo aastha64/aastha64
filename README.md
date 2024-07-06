@@ -2,7 +2,7 @@
 <h4 align="center">A a 4th Year BTech Student at Dr. A.P.J Abdul Kalam Technical University, specializing in Computer Science Engineering with a focus on Artificial Intelligence & Machine Learning.</h4>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Divyanshu-RS&style=flat-square&color=blue" alt=""></p>
 
-<img src= "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  alt = "Coding"  width = "4000"  height = "300" align = "right">
+<img src= "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"  alt = "Coding"  width = "400"  height = "300" align = "right">
 
 - 🌱 I’m currently learning **React and Node.js**
 
