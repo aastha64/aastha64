@@ -1,5 +1,5 @@
 <h1 align="center">Hello there !👋 I'm Aastha</h1>
-<h3 align="center">A a 4th Year BTech Student at Dr. A.P.J Abdul Kalam Technical University, specializing in Computer Science Engineering with a focus on Artificial Intelligence & Machine Learning</h3>
+<h3 align="center">A 4th Year BTech Student at Dr. A.P.J Abdul Kalam Technical University, specializing in Computer Science Engineering with a focus on Artificial Intelligence & Machine Learning</h3>
 <p align="center">
 <p align="center"><img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="600" height="300"  /></p>
 </p>
