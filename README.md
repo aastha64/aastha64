@@ -14,7 +14,7 @@
   
 # 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/aastha-tayal-a647a4221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha-tayal-a647a4221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aastha5464/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aastha5464" height="30" width="40" /></a>
 <a href="https://instagram.com/_.its_aasthaa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.its_aasthaa._" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/aastha_64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aastha_64" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aasthatayal2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aasthatayal2002" height="30" width="40" /></a>
