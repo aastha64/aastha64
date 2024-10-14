@@ -21,7 +21,7 @@
 <a href="https://auth.geeksforgeeks.org/user/aastha1909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aastha1909" height="30" width="40" /></a>
 </p>
 <br>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=aastha64&style=flat-square&color=blue" alt=""></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=aastha64&style=flat-square&color=blue" alt=""></p>
 
 
 # 💻 Languages and Tools
